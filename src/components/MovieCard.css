@@ -1,0 +1,20 @@
+.movie-card {
+  background-color: aliceblue;
+  width: 250px;
+  color: black;
+  transition: all 0.25s ease-in-out;
+  margin-top: 25px;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 5px 10px rgba(180, 253, 219, 0.479);
+}
+
+.movie-card img {
+  width: 100%;
+}
+
+.movie-card p {
+  padding: 0px 10px 30px 10px;
+}

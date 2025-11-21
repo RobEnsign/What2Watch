@@ -1,0 +1,11 @@
+Footer {
+  background-color: #bfc0c0;
+
+  /* top/bottom, left/right */
+  /* right bottom left top  */
+  padding: 20px 20px;
+}
+
+footer p {
+  font-size: 20px;
+}

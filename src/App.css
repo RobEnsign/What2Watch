@@ -1,0 +1,11 @@
+header {
+  background-color: #bfc0c0;
+
+  /* top/bottom, left/right */
+  /* right bottom left top  */
+  padding: 60px 35px;
+}
+
+p {
+  color: black;
+}
